@@ -1,0 +1,19 @@
+// 將您的設定放入此檔案中以覆寫預設值
+{
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": false,
+  "editor.snippetSuggestions": "top",
+  "editor.tabSize": 2,
+  "eslint.autoFixOnSave": true,
+  "editor.renderControlCharacters": true,
+  "files.eol": "\n",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    { "language": "html", "autoFix": true }
+  ],
+  "git.ignoreLimitWarning": true,
+	"editor.renderWhitespace": "all",
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false
+}
