@@ -1,0 +1,1 @@
+{"version":3,"sources":["stylesheets/index.scss"],"names":[],"mappings":"AAAA,uBACE,WACA,YACA,QAAU","file":"static/css/main.37f64be2.css","sourcesContent":["html, body, canvas, #wrap {\n  width: 100%;\n  height: 100%;\n  margin: 0; }\n\n\n\n// WEBPACK FOOTER //\n// ./src/stylesheets/index.scss"],"sourceRoot":""}
