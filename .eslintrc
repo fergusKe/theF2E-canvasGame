@@ -62,6 +62,8 @@
     "react/no-array-index-key": "off",
     "jsx-a11y/anchor-is-valid": "off",
     "new-cap": "off",
-    "react/style-prop-object": "off"
+    "react/style-prop-object": "off",
+    "react/no-unused-state": "off",
+    "react/no-did-mount-set-state": "off"
   }
 }
